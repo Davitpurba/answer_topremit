@@ -33,7 +33,7 @@ const inputs = [
   "WDLWWDL",
   "LDLWWWLDWWW",
   "DLWWWWLLDWD",
-  "WWWLDDLW",
+  "WWWL DDLW",
   "WALD"
 ];
 
